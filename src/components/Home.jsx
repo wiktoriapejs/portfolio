@@ -34,7 +34,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div className='md:pl-[4rem] pb-14 pt-[10rem] sm:pt-[5rem] md:pt-0'>
+        <div className='md:pl-[4rem] pb-14 pt-[10rem] sm:pt-[10rem] md:pt-0'>
           <img
             src={MyImage} 
             alt="my profile"
