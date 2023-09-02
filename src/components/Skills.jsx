@@ -181,7 +181,7 @@ const technologies = [
 ]
 
   return (
-    <div name="skills" className='bg-gradient-to-b from-gray-300 to-white w-full text-black h-screen pt-[40rem] sm:pt-[35rem] md:pt-[60rem] lg:pt-[5rem]'>
+    <div name="skills" className='bg-gradient-to-b from-gray-300 to-white w-full text-black h-screen pt-[47rem] sm:pt-[35rem] md:pt-[60rem] lg:pt-[5rem]'>
       <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-centermw-full h-full text-black'>
 
       <div className=''>
