@@ -12,7 +12,7 @@ const Home = () => {
     >
       <div className=" max-w-screen-lg  mx-auto  md:pt-[5rem] flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="mb-[-100px] md:mb-0 flex flex-col justify-center h-full">
-          <h2 className="pt-4 sm:pt-0 text-4xl sm:text-7xl font-bold text-black">
+          <h2 className="pt-[3rem] sm:pt-0 text-4xl sm:text-7xl font-bold text-black">
            Hello, I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md " >
