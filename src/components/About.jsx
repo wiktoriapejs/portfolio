@@ -7,7 +7,7 @@ import { Link } from "react-scroll";
 const About = () => {
  
   return (
-    <div  name="about" className=" h-screen pt-10 w-full bg-gradient-to-b from-gray-200 via-gray to-white ">
+    <div  name="about" className=" h-screen pt-[5rem] md:pt-10 w-full bg-gradient-to-b from-gray-200 via-gray to-white ">
 
 <div className='lg:mx-20 lg:ml-[12rem] lg:mr-[9rem]'>
           <p className="text-4xl text-end  font-bold border-b-4 border-gray-500 p-2 ">
