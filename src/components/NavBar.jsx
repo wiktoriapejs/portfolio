@@ -15,7 +15,7 @@ const links =[
     },
     {
         id: 2,
-        link: 'about'
+        link: 'about me'
     },
     {
         id: 3,
@@ -34,7 +34,7 @@ const links =[
 ]
 
   return (
-    <div className="flex px-4 justify-between items-center w-full h-20 text-black bg-gradient-to-r from-gray-300 via-gray-200  to-gray-100 opacity-90 fixed">
+    <div className="flex pb-5 md:pb-0 px-4 justify-between items-center w-full h-20 text-black bg-gradient-to-r from-gray-300 via-gray-200  to-gray-100 opacity-90 fixed">
       <div>
         <h1 className="text-5xl text-black font-signature ml-1">Wiktoria Pejs</h1>
       </div>
