@@ -13,7 +13,8 @@ const About = () => {
           <p className="text-4xl text-end  font-bold border-b-4 border-gray-500 p-2 ">
             About me
           </p>
-          <p className='text-l text-center font-semibold pt-6 lg:mx-8'>        Welcome to my digital corner! I'm thrilled to have you here. My name is Wiktoria Pejs, and I'm a passionate full-stack developer with an open mind full of creativity and enthusiasm for learning.</p>
+          <p className='text-l text-center font-semibold pt-6 lg:mx-8'>
+          Welcome to my digital corner! I'm thrilled to have you here. My name is Wiktoria Pejs, and I'm a passionate full-stack developer with an open mind full of creativity and enthusiasm for learning.</p>
 
         </div>
      

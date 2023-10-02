@@ -181,11 +181,11 @@ const technologies = [
 ]
 
   return (
-    <div name="skills" className='bg-gradient-to-b from-gray-300 to-white w-full text-black h-screen pt-[55rem] sm:pt-[38rem] md:pt-[60rem] lg:pt-[5rem]'>
-      <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-centermw-full h-full text-black'>
+    <div  className='bg-gradient-to-b from-gray-300 to-white w-full text-black h-screen pt-[55rem] sm:pt-[38rem] md:pt-[60rem] lg:pt-[5rem]'>
+      <div name="skills" className='max-w-screen-lg mx-auto p-4 flex flex-col justify-centermw-full h-full text-black'>
 
       <div className=''>
-          <p className="text-4xl text-end  font-bold border-b-4 border-gray-500 p-2 ">
+          <p  className="text-4xl text-end  font-bold border-b-4 border-gray-500 p-2 ">
             Skills
           </p>
           <p className="py-6 text-end">These are the technologies I've worked with</p>

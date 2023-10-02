@@ -15,7 +15,7 @@ const links =[
     },
     {
         id: 2,
-        link: 'about me'
+        link: 'about'
     },
     {
         id: 3,
@@ -67,14 +67,14 @@ const links =[
               key={id}
               className="px-4 cursor-pointer capitalize py-6 text-4xl"
             >
-              <div
+              <Link
                 onClick={() => setNav(!nav)}
                 to={link}
                 smooth
                 duration={500}
               >
                 {link}
-              </div>
+              </Link>
             </li>
           ))}
         </ul>
